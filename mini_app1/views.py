@@ -332,7 +332,7 @@ def disease_pred_result(request):
         print(d)
 
         hh = "Please consult  "
-        gg = "You might me suffering from "
+        gg = "You might be suffering from "
 
 
 
