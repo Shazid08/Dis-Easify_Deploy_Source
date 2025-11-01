@@ -1,9 +1,3 @@
-Got it 👍 — here’s a **clean, non-research README.md** for your **DIS-EASIFY** project — written like a **real-world deployable web app** documentation (no academic formatting, no paper citations).
-It’s styled perfectly for **GitHub**, **portfolio websites**, or **recruiter showcases** 👇
-
----
-
-```markdown
 # 🩺 DIS-EASIFY — AI-Powered Disease Prediction Web App
 
 ## 📘 Overview
@@ -60,13 +54,6 @@ Each model is trained on open medical datasets and fine-tuned for prediction acc
 
 ---
 
-## 🧩 Project Architecture
-```
-
-Frontend  →  Django Views  →  ML Models  →  Database  →  Visualization Dashboard
-
-```
-
 The app follows Django’s **Model-View-Template (MVT)** architecture for clear separation of logic, data, and presentation.
 
 ---
@@ -98,11 +85,10 @@ The app follows Django’s **Model-View-Template (MVT)** architecture for clear 
 ## 🧑‍💻 Author
 **Shazid Shaik**  
 Full Stack & AI Developer  
+📍 Jain (Deemed-to-be University), Bengaluru, India  
 🔗 [GitHub](https://github.com/Shazid08) | [LinkedIn](https://www.linkedin.com/in/shazid-shaik-11065122b/) | [Portfolio](https://www.playbook.com/s/shazzz08)
 
 ---
 
 > 💬 *“Making healthcare smarter, one prediction at a time.”*
-```
 
----
